@@ -1,0 +1,10 @@
+lib/Scraper.pm
+lib/Scraper/Base.pm
+lib/Scraper/DataCom.pm
+lib/Scraper/Driver/Base.pm
+lib/Scraper/Driver/WebKit.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+script/datacom.pl
